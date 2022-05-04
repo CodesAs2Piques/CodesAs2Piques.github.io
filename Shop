@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Modele</title>
+    <link rel="stylesheet" type="text/css" href="assets/CSS/Shop.css">
+</head>
+<body>
+
+    
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+    <div class="row">
+
+        <div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+
+<div class="container">
+    <img src="assets/Images/jantes.jpg" class="image">
+        <div class="overlay">
+            <div id="overlay" onclick="on()">
+            <div id="text">
+
+                <div class="box1">
+
+                    <img src="assets/Images/jantes.jpg" onclick="off()">
+
+                <ul class="list">
+                    <li class="l1">Réference</li>
+                    <li class="l2">Prix</li>
+                    <li class="l3">Description</li>
+
+                </ul>
+
+                <a href="file:///C:/Users/quent/Documents/BHM/BHM/Shop.html">x</a>
+
+                <form action="/action_page.php">
+                <label for="quantity"></label>
+                <input class="nmb" type="number" id="quantity" name="quantity" min="1" max="10" value="Qté">
+                <input class="atc" type="submit" value="Ajouter au panier">
+                </form>
+
+            </div>
+            </div>
+            </div>
+        <div class="text">Tamiya TT-01</div>
+            <div style="padding:20px">
+                <button class="button" onclick="on()">more info ...</button>
+            </div>
+    </div>
+</div>
+     
+    </div>
+
+
+    
+
+
+<script>
+function on() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
+
+</script>
+    
+
+</body>
+</html>
